@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# OS temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# IDE/project files
+.vscode/
+.idea/
+*.log
+
+# Model and binary executables
+ffmpeg.exe
+rife-ncnn-vulkan.exe
+models/
+
+# Output videos and temp files
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.webm
+*.mkv
+*.gif
+
+# Temp folders
+/tmp/
+temp/
