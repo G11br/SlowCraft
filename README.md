@@ -79,14 +79,6 @@ slowcraft/
 ├── rife-ncnn-vulkan.exe
 ├── models/
 │   └── rife-v4.6/
-├── images/
-│   ├── github_banner.png
-│   ├── upload_video.png
-│   ├── range_selected.png
-│   ├── brightness.png
-│   ├── processing.png
-│   ├── launch.png
-│   └── success.png
 ```
 
 ---
